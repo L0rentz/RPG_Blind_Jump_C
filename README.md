@@ -37,7 +37,6 @@ Here you can find the video of the end result of this project :
 # Table of content
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [My RPG - It's your turn to create you final fantaisy](#my-rpg-it's-your-turn-to-create-your-final-fantaisy)
 - [Subject](#subject)
 	- [Requirements](#requirements)
 		- [Mandatory](#mandatory)
@@ -46,7 +45,6 @@ Here you can find the video of the end result of this project :
 		- [Could](#could)
 		- [Would](#would)
 	- [Authorized functions](#authorized-functions)
-- [Table of content](#table-of-content)
 
 <!-- /TOC -->
 
