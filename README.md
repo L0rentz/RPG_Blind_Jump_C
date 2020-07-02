@@ -13,6 +13,20 @@ Here you can find the video of the end result of this project :
 
 [![](http://img.youtube.com/vi/xPYve8_049M/0.jpg)](http://www.youtube.com/watch?v=xPYve8_049M "Blind Jump")
 
+# Usage
+
+./my_rpg [-h]
+
+# Some features
+- The map, the monsters, the chest, the player position and teleporter position are generated procedurally.
+- The goal is to reach the stage 5 to complete the story, than you will be able to play infinite mode.
+- You can save and load at any time 3 players.
+- You can loot by opening the chests.
+- Your stats will augment when you level up and by equipping new gears.
+- Find the teleporter to go to the next stage.
+- At stage 5 you have to kill 40 enemies to be able to use the teleporter.
+- A tutorial will tell you how to play when you launch a new game, you can skip any chatbox by pressing ENTER.
+
 # My RPG - It's your turn to create you final fantaisy
 
 - **Binary name:** my_rpg
