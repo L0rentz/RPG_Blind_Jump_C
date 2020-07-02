@@ -104,7 +104,7 @@ The game **must** have:
 
 ### Could
 
-The game cou**could**:
+The game **could**:
 - let the player save and load its own save.
 - let the user customize its character.
 - have different types of enemies.
