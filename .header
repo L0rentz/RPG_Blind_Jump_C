@@ -1,0 +1,15 @@
+USAGE
+    ./my_rpg [-h]
+
+BLIND JUMP
+    - The map, the monsters, the chest, the player position and teleporter
+    position are generated procedurally.
+    - The goal is to reach the stage 5 to complete the story, than you will be
+    able to play infinite mode.
+    - You can save and load at any time 3 players.
+    - You can loot by opening the chests.
+    - Your stats will augment when you level up and by equipping new gears.
+    - Find the teleporter to go to the next stage.
+    - At stage 5 you have to kill 40 enemies to be able to use the teleporter.
+    - A tutorial will tell you how to play when you launch a new game, you can
+    skip any chatbox by pressing enter.
