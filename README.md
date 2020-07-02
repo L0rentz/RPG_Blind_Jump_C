@@ -13,11 +13,11 @@ Here you can find the video of the end result of this project :
 
 [![](http://img.youtube.com/vi/xPYve8_049M/0.jpg)](http://www.youtube.com/watch?v=xPYve8_049M "Blind Jump")
 
-# Usage
+## Usage
 
 ./my_rpg [-h]
 
-# Some features
+## Some features
 - The map, the monsters, the chest, the player position and teleporter position are generated procedurally.
 - The goal is to reach the stage 5 to complete the story, than you will be able to play infinite mode.
 - You can save and load at any time 3 players.
@@ -27,14 +27,14 @@ Here you can find the video of the end result of this project :
 - At stage 5 you have to kill 40 enemies to be able to use the teleporter.
 - A tutorial will tell you how to play when you launch a new game, you can skip any chatbox by pressing ENTER.
 
-# My RPG - It's your turn to create your final fantaisy
+## My RPG - It's your turn to create your final fantaisy
 
 - **Binary name:** my_rpg
 - **Language:** C
 - **Group Size:** 4
 - **Compilation:** via Makefile, including re, clean and fclean rules
 
-# Table of content
+## Table of content
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Subject](#subject)
@@ -48,7 +48,7 @@ Here you can find the video of the end result of this project :
 
 <!-- /TOC -->
 
-# Subject
+## Subject
 
 This project is one of the freest project of your first year. Create your own [RPG].
 Your main challenge for this game will be to create a complete product using everything that you and your team know.
