@@ -27,7 +27,7 @@ Here you can find the video of the end result of this project :
 - At stage 5 you have to kill 40 enemies to be able to use the teleporter.
 - A tutorial will tell you how to play when you launch a new game, you can skip any chatbox by pressing ENTER.
 
-# My RPG - It's your turn to create you final fantaisy
+# My RPG - It's your turn to create your final fantaisy
 
 - **Binary name:** my_rpg
 - **Language:** C
@@ -37,7 +37,7 @@ Here you can find the video of the end result of this project :
 # Table of content
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [My RPG - It's your turn to create you final fantaisy](#my-rpg-its-your-turn-to-create-you-final-fantaisy)
+- [My RPG - It's your turn to create you final fantaisy](#my-rpg-it's-your-turn-to-create-your-final-fantaisy)
 - [Subject](#subject)
 	- [Requirements](#requirements)
 		- [Mandatory](#mandatory)
