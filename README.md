@@ -34,6 +34,21 @@ Here you can find the video of the end result of this project :
 - **Group Size:** 4
 - **Compilation:** via Makefile, including re, clean and fclean rules
 
+# Table of content
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [My RPG - It's your turn to create you final fantaisy](#my-rpg-its-your-turn-to-create-you-final-fantaisy)
+- [Subject](#subject)
+	- [Requirements](#requirements)
+		- [Mandatory](#mandatory)
+		- [Must](#must)
+		- [Should](#should)
+		- [Could](#could)
+		- [Would](#would)
+	- [Authorized functions](#authorized-functions)
+- [Table of content](#table-of-content)
+
+<!-- /TOC -->
 
 # Subject
 
@@ -129,21 +144,5 @@ The game cou**could**:
 > :exclamation: Any unspecified functions are de facto banned.
 
 > :bulb: Damn! How can you have a random seed without using time??
-
-# Table of content
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [My RPG - It's your turn to create you final fantaisy](#my-rpg-its-your-turn-to-create-you-final-fantaisy)
-- [Subject](#subject)
-	- [Requirements](#requirements)
-		- [Mandatory](#mandatory)
-		- [Must](#must)
-		- [Should](#should)
-		- [Could](#could)
-		- [Would](#would)
-	- [Authorized functions](#authorized-functions)
-- [Table of content](#table-of-content)
-
-<!-- /TOC -->
 
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_video_game
